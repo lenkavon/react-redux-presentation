@@ -64,6 +64,12 @@ export default class Presentation extends React.Component {
           <Layout>
             <Fill><Image height="250" src={ReactLogo}/></Fill>
           </Layout>
+          <Text margin="10px 0" textColor="primary" size={6}>
+            Lenka Vondráčková
+          </Text>
+          <Text margin="10px 0" textColor="secondary" size={6}>
+            vondrackova@cngroup.dk
+          </Text>
         </Slide>
 
 
