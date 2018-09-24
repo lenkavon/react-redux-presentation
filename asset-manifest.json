@@ -1,0 +1,19 @@
+{
+  "main.css": "static/css/main.653da357.css",
+  "main.css.map": "static/css/main.653da357.css.map",
+  "main.js": "static/js/main.dc8e4848.js",
+  "main.js.map": "static/js/main.dc8e4848.js.map",
+  "static/media/DOM.png": "static/media/DOM.779d0378.png",
+  "static/media/Diff.png": "static/media/Diff.cc861092.png",
+  "static/media/Patch.png": "static/media/Patch.b2ef796c.png",
+  "static/media/ReactLogo.png": "static/media/ReactLogo.4d4c93dd.png",
+  "static/media/ReduxFlow.png": "static/media/ReduxFlow.56c2d5e7.png",
+  "static/media/ReduxLogo.png": "static/media/ReduxLogo.89b78746.png",
+  "static/media/ReduxSchema.png": "static/media/ReduxSchema.327e1eac.png",
+  "static/media/ReduxUpdate.svg": "static/media/ReduxUpdate.3f7144bc.svg",
+  "static/media/Render.png": "static/media/Render.34d74ebb.png",
+  "static/media/ShadowDom.png": "static/media/ShadowDom.bc9a1af8.png",
+  "static/media/dataEvents.png": "static/media/dataEvents.18d2688d.png",
+  "static/media/eventup.png": "static/media/eventup.7a8e48a3.png",
+  "static/media/passdown.png": "static/media/passdown.6b3fde39.png"
+}
